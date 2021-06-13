@@ -1,0 +1,13 @@
+.body{
+    background-color: rgb(146, 134, 126);
+}
+
+
+.img{
+    width: 300;
+    height: 250;
+}
+.h1{
+    margin-left: 50px;
+    text-decoration: dashed;
+}
